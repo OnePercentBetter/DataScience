@@ -1,8 +1,3 @@
-"""
-Name:  Salah Alhudais
-Email: salah.alhudais04@myhunter.cuny.edu
-Resources:  Used Notes and the sklearn documentation
-"""
 import pandas as pd
 from sklearn.model_selection import train_test_split
 def import_data(csv_file, names=None):
